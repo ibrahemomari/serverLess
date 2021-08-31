@@ -7,7 +7,7 @@
 
 **[AWS API](https://ugdtwq6o3e.execute-api.us-east-1.amazonaws.com/people)** 
 
-**[Pull Request]()** 
+**[Pull Request](https://github.com/ibrahemomari/serverLess/pull/1)** 
 
 
 ---
